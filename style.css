@@ -75,7 +75,19 @@
     border: none;
     outline: none;
  }
- 
+ #mag-glass{
+        position: absolute;
+        left: 40%;
+        top: 42.5%;
+        font-size: larger;
+    }
+#bar{
+    position: absolute;
+    left: 39%;
+    top: 36.2%;
+    font-size:30px;
+    font-weight: 25%;
+}
  #search-box::placeholder {
     font-size: 18px;
     padding-left: 20px;
